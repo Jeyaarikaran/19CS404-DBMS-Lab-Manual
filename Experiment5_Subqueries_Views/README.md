@@ -93,17 +93,16 @@ Write a SQL query to retrieve all columns from the CUSTOMERS table for customers
 
 Sample table: CUSTOMERS
 ```
-ID          NAME        AGE         ADDRESS     SALARY
-----------  ----------  ----------  ----------  ----------
+ID          NAME          AGE            ADDRESS           SALARY
+----------  ----------  ----------     ----------         ----------
 
-1          Ramesh     32              Ahmedabad     2000
-2          Khilan        25              Delhi                 1500
-3          Kaushik      23              Kota                  2000
-4          Chaitali       25             Mumbai            6500
-5          Hardik        27              Bhopal              8500
-6          Komal         22              Hyderabad       4500
-
-7           Muffy          24              Indore            10000
+1          Ramesh       32              Ahmedabad           2000
+2          Khilan       25              Delhi               1500
+3          Kaushik      23              Kota                2000
+4          Chaitali     25              Mumbai              6500
+5          Hardik       27              Bhopal              8500
+6          Komal        22              Hyderabad           4500
+7          Muffy        24              Indore              10000
 ```
 
 ```sql
