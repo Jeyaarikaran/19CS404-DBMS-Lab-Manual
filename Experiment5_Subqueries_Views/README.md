@@ -53,7 +53,8 @@ WHERE grade = (
 
 **Output:**
 
-![Output1](output.png)
+<img width="1136" height="335" alt="5(1)" src="https://github.com/user-attachments/assets/1043ea79-b20c-4a81-a8ec-182d8f97f140" />
+
 
 **Question 2**
 ---
@@ -82,7 +83,8 @@ WHERE city <> (
 
 **Output:**
 
-![Output2](output.png)
+<img width="1118" height="367" alt="5(2)" src="https://github.com/user-attachments/assets/3b6ded95-9dea-48a5-953a-6f6cc0898971" />
+
 
 **Question 3**
 ---
@@ -112,7 +114,8 @@ WHERE SALARY < 2500;
 
 **Output:**
 
-![Output3](output.png)
+<img width="1000" height="352" alt="5(3)" src="https://github.com/user-attachments/assets/9fe848fd-f4f6-40a9-a27a-c23b2031ad9f" />
+
 
 **Question 4**
 ---
@@ -138,7 +141,8 @@ GROUP BY grade;
 
 **Output:**
 
-![Output4](output.png)
+<img width="493" height="257" alt="5(4)" src="https://github.com/user-attachments/assets/08775749-c0e1-468b-9032-68116d298966" />
+
 
 **Question 5**
 ---
@@ -168,7 +172,7 @@ WHERE ADDRESS = 'Delhi';
 
 **Output:**
 
-![Output5](output.png)
+
 
 **Question 6**
 ---
@@ -176,7 +180,8 @@ From the following tables write a SQL query to find the order values greater tha
 
 Note: date should be yyyy-mm-dd format
 
-ORDERS TABLE
+ORDERS TABLE<img width="1005" height="250" alt="5(5)" src="https://github.com/user-attachments/assets/f2615b6a-c267-4eb7-953c-a075d3edabe7" />
+
 
 name            type
 ----------     ----------
@@ -199,7 +204,8 @@ WHERE purch_amt > (
 
 **Output:**
 
-![Output6](output.png)
+<img width="1015" height="348" alt="5(6)" src="https://github.com/user-attachments/assets/27786e0c-a59f-4fbe-abcd-fb83e1a5bbd0" />
+
 
 **Question 7**
 ---
@@ -235,8 +241,8 @@ WHERE s.city = 'New York';
 ```
 
 **Output:**
+<img width="998" height="353" alt="5(7)" src="https://github.com/user-attachments/assets/5249bc21-70a9-41f1-8790-f494372ed12a" />
 
-![Output7](output.png)
 
 **Question 8**
 ---
@@ -274,7 +280,8 @@ WHERE s.commission = (
 
 **Output:**
 
-![Output8](output.png)
+<img width="826" height="357" alt="5(8)" src="https://github.com/user-attachments/assets/aa772c1d-d1f5-4260-bb43-737b2b016885" />
+
 
 **Question 9**
 ---
@@ -309,7 +316,8 @@ WHERE s.city = 'New York';
 
 **Output:**
 
-![Output9](output.png)
+<img width="981" height="371" alt="5(9)" src="https://github.com/user-attachments/assets/dcc66d10-cd3e-429f-a965-f69ec43a5fd7" />
+
 
 **Question 10**
 ---
@@ -330,7 +338,8 @@ WHERE grade = (
 
 **Output:**
 
-![Output10](output.png)
+<img width="1087" height="330" alt="5(10)" src="https://github.com/user-attachments/assets/c4caf0b9-ce35-40a0-a9d3-c30f0dabae3d" />
+
 
 
 ## RESULT
